@@ -1,0 +1,22 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+class Examtest {
+
+	@Test
+		void test() throws InterruptedException {
+			WebDriver driver = null;
+			System.setProperty("webdriver.chrome.driver", "D:\\webdriver\\chromedriver.exe");
+			driver = new ChromeDriver();
+			
+			driver.get("https://nxtgenaiacademy.com/demo-site/");
+			
+			//1.Register
+			driver.findElement(By.id("vfb-5")).sendKeys("John Doe");
+	}
+
+}

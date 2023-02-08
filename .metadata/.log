@@ -1,0 +1,269 @@
+!SESSION 2566-02-08 09:14:56.319 -----------------------------------------------
+eclipse.buildId=4.26.0.20221201-1200
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=th_TH
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2566-02-08 09:14:57.170
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2566-02-08 09:15:22.674
+!MESSAGE Logback config file: D:\Exam\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.0.20221015-0744.xml
+
+!ENTRY org.eclipse.jface 2 0 2566-02-08 09:15:24.240
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2566-02-08 09:15:24.240
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2566-02-08 09:15:24.240
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2566-02-08 09:15:28.089
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\acer'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:18:11.733
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:18:11.737
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:18:12.988
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:18:12.993
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:18:22.235
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:18:22.241
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:18:23.429
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:18:23.432
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:23:29.962
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:23:29.966
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:29:57.004
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:29:57.007
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:30:21.714
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:30:21.718
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:30:59.697
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 09:30:59.702
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:06:53.145
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:06:53.150
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:09:54.220
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:09:54.224
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:10:59.227
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:10:59.231
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:14:37.110
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:14:37.115
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:15:20.326
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:15:20.331
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:20:07.824
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:20:07.830
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:31:06.216
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:31:06.222
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:39:58.527
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:39:58.532
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:45:14.927
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:45:14.932
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:45:42.365
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:45:42.368
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:58:45.700
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 10:58:45.703
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:01:05.775
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:01:05.778
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:01:51.994
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:01:51.997
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:03:58.268
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:03:58.271
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:05:56.517
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:05:56.520
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:07:22.015
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:07:22.018
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:08:52.808
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:08:52.813
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:10:51.207
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:10:51.210
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:14:34.718
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:14:34.721
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:16:16.709
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:16:16.713
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:16:49.289
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:16:49.292
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:17:23.003
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:17:23.005
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:18:32.325
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:18:32.328
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:20:01.744
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:20:01.746
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:21:03.932
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:21:03.934
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:21:34.679
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:21:34.681
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:22:24.133
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2566-02-08 11:22:24.135
+!MESSAGE Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
